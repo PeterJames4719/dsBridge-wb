@@ -1,0 +1,16 @@
+PODS:
+  - dsBridge-wb (0.1.0)
+
+DEPENDENCIES:
+  - dsBridge-wb (from `../`)
+
+EXTERNAL SOURCES:
+  dsBridge-wb:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  dsBridge-wb: 280cf18b5fc970d84767112b57ac151b419608af
+
+PODFILE CHECKSUM: 59fe58de01de0843c7388d6360d3a08d07a3f440
+
+COCOAPODS: 1.7.1

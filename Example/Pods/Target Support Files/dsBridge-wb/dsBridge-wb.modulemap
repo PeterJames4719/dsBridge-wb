@@ -1,0 +1,6 @@
+framework module dsBridge_wb {
+  umbrella header "dsBridge-wb-umbrella.h"
+
+  export *
+  module * { export * }
+}
